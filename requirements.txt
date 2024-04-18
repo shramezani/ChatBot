@@ -1,1 +1,9 @@
-flask
+pre-commit==3.7.0
+fastapi == 0.110.1
+uvicorn == 0.29.0
+gradio == 4.26.0
+tensorflow == 2.16.1
+transformers == 4.40.0
+tf-keras == 2.16.0
+requests ==2.31.0
+pydantic ==2.7.0
